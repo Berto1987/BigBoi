@@ -30,7 +30,7 @@ body {
 .brand,
 .nav-link {
     text-transform: uppercase;
-    color: red;
+    color: darkgoldenrod;
 }
 
 .brand {
